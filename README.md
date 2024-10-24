@@ -1,4 +1,12 @@
-Import Python Libraries: Imports necessary Python libraries and modules for data manipulation, model building, evaluation, and visualization.
+Welcome to the guidelines for the Technical and Vocational Education and Training (TVET) Course Recommendation System. To utilize this source code, please follow the steps outlined below.
+
+TVET-CRS Python Code: TVET-CRS.ipynb
+Dataset: Tvet_data.xlsx
+
+To execute follow below steps:-
+
+Step 1: Import Python Libraries: 
+Imports necessary Python libraries and modules for data manipulation, model building, evaluation, and visualization.
 
 Load Data: Reads data from an Excel file (Tvet_dataCBT.xlsx) into a Pandas DataFrame (df).
 4.	Feature Engineering:
