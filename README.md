@@ -1,9 +1,7 @@
 Welcome to the guidelines for the Technical and Vocational Education and Training (TVET) Course Recommendation System. To utilize this source code, please follow the steps outlined below.
 
-TVET-CRS Python Code: TVET-CRS.ipynb
-Dataset: Tvet_data.xlsx
-
-To execute follow python Code, follow below steps:-
+- TVET-CRS Python Code: TVET-CRS.ipynb
+- Dataset: Tvet_data.xlsx
 
 Step 1: Import Python Libraries: 
 Imports necessary Python libraries and modules for data manipulation, model building, evaluation, and visualization.
