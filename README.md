@@ -3,16 +3,21 @@ Welcome to the guidelines for the Technical and Vocational Education and Trainin
 TVET-CRS Python Code: TVET-CRS.ipynb
 Dataset: Tvet_data.xlsx
 
-To execute follow below steps:-
+To execute follow python Code, follow below steps:-
 
 Step 1: Import Python Libraries: 
 Imports necessary Python libraries and modules for data manipulation, model building, evaluation, and visualization.
 
-Load Data: Reads data from an Excel file (Tvet_dataCBT.xlsx) into a Pandas DataFrame (df).
-4.	Feature Engineering:
-o	Displays basic information about the dataset (head(), describe(), info()).
-o	Visualizes the correlation matrix of numerical features using a heatmap.
-o	Visualizes the distribution of numerical features using histograms.
+Step 2: Remove the existing Keras Tuner project directory (if exists)
+
+Step 3: Load Data: 
+Reads data from an Excel file (Tvet_data.xlsx) into a Pandas DataFrame (df).
+
+Step 4:	Feature Engineering:
+-	Displays basic information about the dataset (head(), describe(), info()).
+- Visualizes the correlation matrix of numerical features using a heatmap.
+- Visualizes the distribution of numerical features using histograms.
+
 5.	Data Transformation and Normalization:
 o	Encodes categorical variables ('Gender', 'Trade') using LabelEncoder.
 o	Normalizes numerical features using StandardScaler.
